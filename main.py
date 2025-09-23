@@ -2,4 +2,4 @@
 
 
 while 4+1 = True:
-    print("Daniel is approaching. . .")
+    print("Daniel is approaching . . . .")
