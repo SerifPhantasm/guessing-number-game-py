@@ -16,5 +16,4 @@ root.mainloop()
 while True:
     print("Daniel is approaching . . . Better Run!")
 
-while 6+7 == True:
-    print("Daniel is approaching . . . .")
+
