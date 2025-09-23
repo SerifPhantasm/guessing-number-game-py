@@ -1,4 +1,4 @@
-## loop - this loop is a USELESS loop 
+## loop - straight up looping it
 
 
 while 4+1 = True:
