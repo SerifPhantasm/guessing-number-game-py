@@ -12,6 +12,6 @@ ttk.Label(frm, text="Hello World!").grid(column=0, row=0)
 ttk.Button(frm, text="Quit", command=root.destroy).grid(column=1, row=0)
 root.mainloop()
 
+while True:
+    print("Daniel is approaching . . . Better Run!")
 
-while 4+1 = True:
-    print("Daniel is approaching . . . .")
