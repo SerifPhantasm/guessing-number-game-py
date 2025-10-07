@@ -22,16 +22,19 @@ while True:
     try:
         Answer1 = int(input("What is the number?"))
 
-        if (AskUserforn1 >= TheNumber):
+        if Answer1 < AskUserforn1:
             print("Not possible... Too low.")
             print("")
             time.sleep(0.1)
             continue
-        if (AskUserforn2 <= TheNumber):
+        elif Answer1 > AskUserforn2:
             print("Not possible... Too high.")
             print("")
             time.sleep(0.1)
             continue
+
+
+        
         if (Answer1 == TheNumber):
             print("That is the correct Answer!")
             break
