@@ -4,7 +4,7 @@ import time
 
 Yestxt = ["Yes", "yes", "ye", "Ye"]
 Notxt = ["No", "no"]
-IncorrectList = ["Incorrect!", "That is Incorrect!", "Try Again!"]
+IncorrectList = ["Incorrect!", "That is Incorrect!", "Try Again!", "Wrong number!", "Try Again...", "Nope.", "Incorrect!!!"]
 
 ## random.randrange(3, 9)
 
